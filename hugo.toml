@@ -1,0 +1,9 @@
+baseURL = 'https://rkraft.xyz'
+languageCode = 'en-us'
+title = 'WIP!'
+theme = "m10c"
+[params]
+
+description = "Reed"
+
+
